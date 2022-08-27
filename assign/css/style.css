@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif !important;
+}
+
+
+#orange{
+    display: flex;
+    align-items: center;
+       
+}
+
+#orange a {
+    display: flex;
+    align-items: center;
+}
+
+input{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    width: 500px;
+    
+}
+
+.navbar-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* big-box section */
+
+.left{
+    margin-top: 50px;
+    line-height: 20px;
+    
+}
+
+
+
+
+/* image-section */
+
+.my-img{
+    width: 170px;
+}
+
+.face{
+    margin-left: 400px;
+    
+    
+}
+
+/* Footer */
+
+.full-footer{
+    margin: 80px 0;
+    width: 100%;
+    height: auto;
+    background-color: #ECF0F1;
+}
+
+.full-footer .col-lg-12{
+    padding-top: 10px;
+}
+
+.full-footer .gi{
+    background-color: white;
+    padding: 6px 15px;
+}
+
+.full-footer hr{
+    border-top: 1px solid rgb(224 219 219);
+    width: 98%;
+}
+
+.full-footer .said{
+    position: relative;
+    top: -15px;
+    text-align: left;
+
+}
+
+.full-footer .add-button{
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+/* left-over part */
+
+.end hr{
+    border-top: 1px solid rgb(224 219 219);
+    width: 95%;
+    position: relative;
+    top: -50px;
+}
+
+.end small{
+    text-align: center;
+    position: relative;
+    top: -50px;
+    left: 40px;
+    color: #c2c6c7;
+    font-size: 12px;
+   
+}
+
+
+
+
